@@ -1,4 +1,6 @@
 # Ignore the contents of the _site directory and other cache directories
+.DS_Store
+**/.DS_Store
 _site/
 .sass-cache/
 

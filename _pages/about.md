@@ -1,41 +1,35 @@
 ---
 permalink: /
-title: "About Me"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Welcome! This is Huiliang, a PhD candidate in Electrical and Computer Engineering at McGill University, supervised by Prof. Benoit Boulet. 
-<!-- I received my Master's degree from Peking University and earned my Bachelor's degree from Xidian University. -->
+Welcome! I am Huiliang Zhang, a PhD candidate in Electrical and Computer Engineering at McGill University, supervised by Prof. Benoit Boulet.
 
-<!-- ## Research Interests -->
+I build reliable AI systems for decision-making in complex workflows. My work spans agentic AI products, applied reinforcement learning, spatial-temporal machine learning, graph learning, energy and control applications, and empirical model evaluation.
 
-My research focuses on developing machine learning and artificial intelligence methods that integrate theoretical innovation with real-world applications.
-I am particularly interested in:
+My research and product work asks one central question: how can AI systems help people and organizations make better decisions under uncertainty, while remaining measurable, auditable, and deployable? I am interested in academic research, industrial AI systems, and venture-building conversations around agentic AI, decision intelligence, and reliable machine learning.
 
-- Representation Learning & Data Mining
-- Reinforcement Learning & Safe Control
-- Multi-Agent Systems
-- AI4Science
+## Focus Areas
 
-## Professional Experience
+- **[Agentic AI products](/focus-areas/#agentic-ai-products):** building AI work platforms that help people manage long-running knowledge work across tools, documents, and decisions.
+- **[Decision-making for finance](/focus-areas/#decision-making-for-finance):** applying learning systems to repeated operational decisions where timing, cost, and accountability matter.
+- **[Spatial-temporal representation learning](/focus-areas/#spatial-temporal-representation-learning):** learning from long histories of real-world system behavior for forecasting and decision support.
+- **[Graph learning for dynamic systems](/focus-areas/#graph-learning-for-dynamic-systems):** modeling relationships across connected systems such as traffic, energy, buildings, and sensors.
+- **[Applied machine learning for energy and control](/focus-areas/#applied-machine-learning-for-energy-and-control):** connecting prediction with action in energy-management and control settings.
+- **[LLM evaluation](/focus-areas/#llm-evaluation):** measuring model behavior, bias, and reliability across languages and model families.
 
-- **PhD Candidate** - McGill University, Montreal, Canada (Current)
-- **Research Intern** - Hydro Quebec, May 2022 - Present
-- **Teaching Assistant** - COMP 551: Applied Machine Learning - Fall 2023, Winter 2024, Fall 2024, Winter 2025
+## Education
 
-## Recent News
+- **McGill University** — Ph.D. in Electrical and Computer Engineering, supervised by Prof. Benoit Boulet, Aug 2020 – expected Oct 2026.
+- **Peking University** — M.S. in Computer Science and Electronic Engineering; Outstanding Graduate (2020), Sep 2017 – Jul 2020.
+- **Xidian University** — Bachelor of Engineering in Electronic Engineering (Valedictorian, with highest honor), GPA: 3.80/4.0 (rank 2nd), Sep 2013 – Jun 2017.
 
-- Currently pursuing PhD research under the supervision of Prof. Benoit Boulet
-- Engaged in cutting-edge research in Electrical and Computer Engineering
-- Active member of the McGill University research community
+## Explore
 
-## My Vision
-
-Using algorithms to understand, explore, and impact the world.
-
-<!-- ## Contact -->
-
-Feel free to reach out to me for collaborations, questions, or discussions about my research. I am always interested in connecting with fellow researchers and exploring new opportunities.
+- [Focus Areas](/focus-areas/) - a more structured overview of the research and product directions.
+- [Professional Experience](/experience/) - research, product, academic service, and teaching experience.
+- [Publications](/publications/) - journal articles, conference papers, and preprints with official links.

@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Huiliang Zhang"
 title_separator          : "-"
 name                     : &name "Huiliang Zhang"
-description              : &description "Researcher and Educator"
+description              : &description "ML researcher building reliable AI systems across reinforcement learning, LLM agents, and real-world evaluation"
 url                      : https://hlhang9527.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hlhang9527/hlhang9527.github.io"
@@ -23,13 +23,13 @@ repository               : "hlhang9527/hlhang9527.github.io"
 author:
   # Biographic information
   avatar           : "hl.jpg"
-  # name             : "Huiliang Zhang"s
+  name             : *name
   # pronouns         : # example: "she/her"  
-  # bio              : "PhD candidate in Electrical and Computer Engineering at McGill University, supervised by Prof. Benoit Boulet"
-  # location         : "Montreal, Canada"
+  bio              : "PhD candidate at McGill working on ML, RL, LLM agents, and reliable evaluation."
+  # location         :
   # employer         : "McGill University"
   # uri              : # URL
-  email            : "huiliang.zhang2[at]mail.mcgill.ca"
+  email            : "huiliang.zhang2@mail.mcgill.ca"
 
   # Academic websites
   # academia         : # URL
@@ -47,6 +47,8 @@ author:
   # codepen          : # Username
   # dribbble         : # Username
   github           : "hlhang9527"
+  ai4alpha         : "https://www.ai4alpha.ca/"
+  ucoworker        : "https://ucoworker.com/"
   # kaggle           : # Username  
   # stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -60,7 +62,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  # linkedin         : # Username
+  linkedin         : "huiliang-zhang-68766b198"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
@@ -78,12 +80,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'A) Journals'
   conferences:
-    title: 'Conference Papers'
+    title: 'B) Conferences'
+  preprints:
+    title: 'C) Preprints'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
