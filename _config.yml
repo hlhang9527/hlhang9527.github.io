@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Huiliang Zhang"
 title_separator          : "-"
 name                     : &name "Huiliang Zhang"
-description              : &description "ML researcher building reliable AI systems across reinforcement learning, LLM agents, and real-world evaluation"
+description              : &description "Ph.D. research scientist working on agent evaluation, RL environments, post-training data, and applied ML"
 url                      : https://hlhang9527.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hlhang9527/hlhang9527.github.io"
@@ -24,9 +24,9 @@ author:
   # Biographic information
   avatar           : "hl.jpg"
   name             : *name
-  # pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at McGill working on ML, RL, LLM agents, and reliable evaluation."
-  # location         :
+  pronouns         : "she/her"
+  bio              : "Ph.D. (McGill) and Senior Research Scientist at AI4Alpha, working on agent evaluation, RL environments, post-training data, and applied ML."
+  location         : "Toronto, Canada"
   # employer         : "McGill University"
   # uri              : # URL
   email            : "huiliang.zhang2@mail.mcgill.ca"

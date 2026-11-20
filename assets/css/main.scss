@@ -41,3 +41,15 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+/* Keep the sidebar inside the page grid so a long bio never overlaps the
+   main column. The theme fixes the sidebar to the viewport, which sizes it
+   against the window while the content column is sized against #main. */
+@media screen and (min-width: 1024px) {
+  .sidebar {
+    position: sticky;
+    top: 90px;                    /* stay below the fixed masthead */
+    height: auto;
+    max-height: calc(100vh - 90px);
+    padding-top: 0 !important;    /* theme JS adds masthead padding for the fixed layout */
+  }
+}
